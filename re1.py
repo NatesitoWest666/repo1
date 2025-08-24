@@ -7,3 +7,6 @@ print("hola mundo")
 
 multi=a*b
 print("la multiplicacion de a y b es: ", multi)
+
+division=a/b
+print("la division de a y b es: ", division)
