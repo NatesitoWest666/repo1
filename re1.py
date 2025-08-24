@@ -14,4 +14,8 @@ print("la division de a y b es: ", division)
 resta=a-b
 print("la resta de a y b es: ", resta)
 
+<<<<<<< HEAD
 print("Hola a todos ")
+=======
+print("hola 123")
+>>>>>>> 622b34d956b8cb4a1ab193265db6caad9fdb83a0
