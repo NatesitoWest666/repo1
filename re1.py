@@ -10,3 +10,6 @@ print("la multiplicacion de a y b es: ", multi)
 
 division=a/b
 print("la division de a y b es: ", division)
+
+resta=a-b
+print("la resta de a y b es: ", resta)
